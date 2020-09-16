@@ -1,19 +1,24 @@
-# fullcalendar-demo
+#这是针对fullcalendar v5版本所做的vue demo
+###在原有基础上新增了拖拽的样例
 
-## Project setup
+### 效果图如下：
+
+![样例图](image/样例图.png "样例图")
+
+## 初始化
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### 运行
 ```
 yarn serve
 ```
 
-### Compiles and minifies for production
+### 打包
 ```
 yarn build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 注意
+代码仅供参考，部分代码是根据官网的demo进行查看，可以进入官网查看api和查找demo [跳转链接](https://fullcalendar.io/).
